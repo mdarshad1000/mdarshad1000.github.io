@@ -1,10 +1,10 @@
 ---
 layout: page
-title: blog 📝
-description: Personal Blog where I regularly publish articles on diverse topics. Previously served as my portfolio website as well.
-img: assets/img/personal.png
-importance: 4
-category: transitional
+title: to do list 🔖
+description: This is a simple ToDo list app which can be used to manage daily tasks.
+img: assets/img/todo-bg.jpg
+importance: 5
+category: earliest
 ---
 
 Every project has a beautiful feature showcase page.

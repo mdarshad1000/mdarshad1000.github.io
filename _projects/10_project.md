@@ -1,10 +1,10 @@
 ---
 layout: page
-title: blog 📝
-description: Personal Blog where I regularly publish articles on diverse topics. Previously served as my portfolio website as well.
-img: assets/img/personal.png
+title: legal AI 🎓
+description: Web applciation that allows you to upload legal documents and understand them by conversing in a natural way.
+img: assets/img/legal.jpeg
 importance: 4
-category: transitional
+category: latest
 ---
 
 Every project has a beautiful feature showcase page.

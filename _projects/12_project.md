@@ -1,10 +1,10 @@
 ---
 layout: page
-title: blog 📝
-description: Personal Blog where I regularly publish articles on diverse topics. Previously served as my portfolio website as well.
-img: assets/img/personal.png
-importance: 4
-category: transitional
+title: Medi Assist 💉
+description: An active pharmaceutical ingredient parser to unpack your medicines and prevent you from making a fatal mistake.
+img: assets/img/mediassist.jpeg
+importance: 5
+category: latest
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: blog 📝
-description: Personal Blog where I regularly publish articles on diverse topics. Previously served as my portfolio website as well.
-img: assets/img/personal.png
-importance: 4
-category: transitional
+title: Weather App🌤️
+description: Webapp to get weather details of any location by making API calls.
+img: assets/img/weather.png
+importance: 7
+category: earliest
 ---
 
 Every project has a beautiful feature showcase page.

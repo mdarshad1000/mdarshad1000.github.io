@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Healthy Eats 🥗
+title: Healthy Eat 🥗
 description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
 img: assets/img/healthyeats.png
 importance: 3

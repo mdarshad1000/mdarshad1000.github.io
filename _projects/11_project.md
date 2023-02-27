@@ -1,10 +1,10 @@
 ---
 layout: page
-title: blog 📝
-description: Personal Blog where I regularly publish articles on diverse topics. Previously served as my portfolio website as well.
-img: assets/img/personal.png
-importance: 4
-category: transitional
+title: script aid 🤖
+description: AI-powered writing assistant that helps to write Blogs, Tweets, Emails & LinkedIn posts in effortless & efficient way.
+img: assets/img/scriptaid.png
+importance: 3
+category: latest
 ---
 
 Every project has a beautiful feature showcase page.
