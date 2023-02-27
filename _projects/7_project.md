@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Paper Brain 📄
-description: Unlock the true potential of research, a platform to seamlessly access and understand research papers. 
-img: assets/img/paperbrain.png
-importance: 1
-category: latest
+title: get sanity
+description: An initiative to help people get insight about their mental status and understand the disorders they might have.
+img: assets/img/getsanity.png
+importance: 4
+category: transitional
 ---
 
 Every project has a beautiful feature showcase page.

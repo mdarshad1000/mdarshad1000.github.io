@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Healthy Eats 🥗
+description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
+img: assets/img/healthyeats.png
 importance: 3
-category: work
+category: latest
 ---
 
 Every project has a beautiful feature showcase page.

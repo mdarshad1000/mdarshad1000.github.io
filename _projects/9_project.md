@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Paper Brain 📄
-description: Unlock the true potential of research, a platform to seamlessly access and understand research papers. 
-img: assets/img/paperbrain.png
-importance: 1
-category: latest
+title: personal blog
+description: Personal Blog where I regularly publish articles on diverse topics. Previously served as my portfolio website as well.
+img: assets/img/personal.png
+importance: 4
+category: transitional
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Code Book 💻
+description: go to platform for all the CS folks & software devs, helps you store, generate, translate and explain code with a single click.
+img: assets/img/codebook.png
 importance: 2
-category: work
+category: latest
 ---
 
 Every project has a beautiful feature showcase page.
