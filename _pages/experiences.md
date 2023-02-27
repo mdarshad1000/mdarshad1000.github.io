@@ -26,7 +26,7 @@ nav_order: 1
     <hr>
     <div class="container">
         <h3>Software Engineer Intern</h3>
-        <h6><a href="https://www.microsoft.com/en-in/">PaperBrain</a></h6>
+        <h6><a href="https://www.microsoft.com/en-in/">Microsoft Inc.</a></h6>
         <p>April 2023 - Present</p>
     </div>
     <hr>
