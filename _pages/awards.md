@@ -4,7 +4,7 @@ permalink: /awards/
 title: awards
 description: awards, grants, achievements, prizes .
 nav: true
-nav_order:
+nav_order: 2
 ---
 <hr>
 <div class="projects">
