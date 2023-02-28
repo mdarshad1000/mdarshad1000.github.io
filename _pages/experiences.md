@@ -13,11 +13,7 @@ nav_order: 1
         <h3>Founder</h3>
         <h6><a href="https://www.paperbain.study/">PaperBrain</a></h6>
         <p>January 2023 - Present</p>
-         <ul>
-            <li><b>Description:</b> Working on Analysis and Machine Learning for X-ray absorption spectroscopy.</li>
-            <li><b>Literature Review:</b> Conducted a comprehensive literature review to understand Machine Learning algorithms for
-                X-ray absorption spectroscopy.</li>
-        </ul>
+        <ul>
             <li>Developed a platform to access and understand research papers. With direct access to pdfs, you'll never have to struggle with tedious downloads again.
             <li>A GPT powered assistant which helps you understand the papers on the go.
             <li>Got 1000+ active users within the first 10 days of launch.
