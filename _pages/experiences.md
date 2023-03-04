@@ -11,12 +11,12 @@ nav_order: 1
 <div class="projects">
     <div class="container">
         <h3>Founder</h3>
-        <h6><a href="https://www.paperbain.study/">PaperBrain</a></h6>
+        <h6><a href="https://www.paperbrain.study/">PaperBrain</a></h6>
         <p>January 2023 - Present</p>
         <ul>
-            <li>Developed a platform to access and understand research papers. With direct access to pdfs, you'll never have to struggle with tedious downloads again.
-            <li>A GPT powered assistant which helps you understand the papers on the go.
-            <li>Got 1000+ active users within the first 10 days of launch.
+            <li>Developed a platform to access and understand research papers. With direct access to pdfs, you'll never have to struggle with tedious downloads again.</li>
+            <li>A GPT powered assistant which helps you understand the papers on the go.</li>
+            <li>Got 1000+ active users within the first 10 days of launch.</li>
         </ul>
     </div>
     <hr>

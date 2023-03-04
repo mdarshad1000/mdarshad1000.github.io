@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A Quantum bit trying to fit in the Binary World
+subtitle: i tell computers to do stuff, occasionally they listen .
 
 profile:
   align: right
@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an engineering junior from New Delhi pursuing a major in Information Technology. I am a hackathon aficionado and have a keen interest in Natural Language Processing flavoured by my diagonal love for Backend development.
+I am an engineering junior from New Delhi pursuing a major in Information Technology. I am a hackathon aficionado and have a keen interest in <span style="color: pink">Natural Language Processing</span> flavoured by my diagonal love for <span style="color: pink">HCI.</span>
 
-I am broadly interested in Application of Machine Learning Research and Software Development. I also possess a Software Engineering background, with the majority of it concentrated in the field of Backend development. 
+I am broadly interested in Application of <span style="color: pink">Machine Learning Research</span> and <span style="color: pink">Software Development </span>. I also possess a Software Engineering background, with the majority of it concentrated in the field of <span style="color: pink">Backend development .</span> 
 
-In my spare time, I'm learning how machines learn, exploring the advancements in AGI, and hacking away on various side projects. And as always, watching a healthy dose of football.
+In my spare time, I'm learning how machines learn, exploring the advancements in AGI, and hacking away on various [side projects](https://mdarshad1000.github.io/projects/). And as always, watching a healthy dose of Football.
