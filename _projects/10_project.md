@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Healthy Eat 🥗
-description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
-img: assets/img/healthyeats.png
-importance: 3
+title: legal AI 🎓
+description: Web applciation that allows you to upload legal documents and understand them by conversing in a natural way.
+img: assets/img/legal.jpeg
+importance: 4
 category: latest
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Healthy Eat 🥗
-description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
-img: assets/img/healthyeats.png
-importance: 3
-category: latest
+title: blog 📝
+description: Personal Blog where I regularly publish articles on diverse topics. Previously served as my portfolio website as well.
+img: assets/img/personal.png
+importance: 4
+category: transitional
 ---
 
 Every project has a beautiful feature showcase page.

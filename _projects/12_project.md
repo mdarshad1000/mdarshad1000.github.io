@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Healthy Eat 🥗
-description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
-img: assets/img/healthyeats.png
-importance: 3
+title: Medi Assist 💉
+description: An active pharmaceutical ingredient parser to unpack your medicines and prevent you from making a fatal mistake.
+img: assets/img/mediassist.jpeg
+importance: 5
 category: latest
 ---
 

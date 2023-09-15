@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Healthy Eat 🥗
-description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
-img: assets/img/healthyeats.png
+title: script aid 🤖
+description: AI-powered writing assistant that helps to write Blogs, Tweets, Emails & LinkedIn posts in effortless & efficient way.
+img: assets/img/scriptaid.png
 importance: 3
 category: latest
 ---

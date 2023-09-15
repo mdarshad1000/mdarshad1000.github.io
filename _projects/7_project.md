@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Healthy Eat 🥗
-description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
-img: assets/img/healthyeats.png
-importance: 3
-category: latest
+title: get sanity 🧠
+description: An initiative to help people get insight about their mental status and understand the disorders they might have.
+img: assets/img/getsanity.png
+importance: 4
+category: transitional
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: hospline 🏥
+description: Join virtual queues at hospitals and vaccination centers to maintain social distancing and prevent the spread of Covid-19.
+img: assets/img/hospline2.jpg
 importance: 4
-category: fun
+category: transitional
 ---
 
 Every project has a beautiful feature showcase page.

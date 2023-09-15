@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Paper Brain 📄
+description: Unlock the true potential of research, a platform to seamlessly access and understand research papers. 
+img: assets/img/paperbrain.png
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: latest
+link: https://paperbrain.study/
 ---
 
 Every project has a beautiful feature showcase page.

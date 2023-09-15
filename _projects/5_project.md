@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: prognosis 🦠
+description: Streamlit app containing prediction system for Diabetes, Parkison's Disease, Heart Disease and Breast Cancer.
+img: assets/img/disease.jpeg
 importance: 3
-category: fun
+category: transitional
 ---
 
 Every project has a beautiful feature showcase page.

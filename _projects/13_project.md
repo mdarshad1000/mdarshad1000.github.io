@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Healthy Eat 🥗
-description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
-img: assets/img/healthyeats.png
-importance: 3
-category: latest
+title: Weather App🌤️
+description: Webapp to get weather details of any location by making API calls.
+img: assets/img/weather.png
+importance: 7
+category: earliest
 ---
 
 Every project has a beautiful feature showcase page.
