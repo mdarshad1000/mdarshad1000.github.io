@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: i tell computers to do stuff, occasionally they listen .
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>New Delhi, India</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an engineering senior from New Delhi pursuing a major in Information Technology. I am a hackathon aficionado and have a keen interest in <span style="color: pink">Software Development</span> flavoured by my diagonal love for building <span style="color: pink">Natural Language Processing</span>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am broadly interested in Application of <span style="color: pink">Machine Learning Research</span> and <span style="color: pink">Software Development </span>. I also possess a Software Engineering background, with the majority of it concentrated in the field of <span style="color: pink">Backend development .</span> 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Lately I have been exploring the crazy advancements in the space of LLMs and exploring frameworks like [Langchain 🦜](https://www.langchain.com/) and [LlamaIndex 🦙](https://www.llamaindex.ai/)
+
+In my spare time, I'm learning how machines learn, exploring the advancements in AGI, and hacking away on various [side projects](https://mdarshad1000.github.io/projects/). And as always, watching a healthy dose of Football.
