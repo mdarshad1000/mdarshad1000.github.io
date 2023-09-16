@@ -15,7 +15,7 @@ categories:
 LlamaIndex and LangChain have been arguably the two most popular and successful frameworks in the LLM space. In the short span of few months, both the frameworks have taken the developer community by aplomb. What NumPy and Pandas did for machine learning, LangChain and LlamaIndex have done for LLMs, greatly increasing their usability and functionality. From a distance, both frameworks seem to primarily do the same thing, however that's not ture. 
 
 
-### LlamaIndex 🦙: Swift Search and Retrieval
+#### LlamaIndex 🦙: Swift Search and Retrieval
 
 Imagine you're building an app, and you need it to find stuff in a bunch of documents fast. That's where LlamaIndex comes in handy. It's like your trusty librarian, organizing your documents and helping you find what you want without any fuss. Perfect for tasks like summarizing articles, answering questions from texts, or digging up specific info in a pile of words.
 
