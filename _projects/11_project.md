@@ -5,6 +5,7 @@ description: AI-powered writing assistant that helps to write Blogs, Tweets, Ema
 img: assets/img/scriptaid.png
 importance: 3
 category: latest
+link: https://scriptaid.onrender.com/
 ---
 
 Every project has a beautiful feature showcase page.

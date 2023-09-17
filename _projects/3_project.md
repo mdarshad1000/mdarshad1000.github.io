@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Healthy Eats 🥗
-description: one-stop solution to get an insight about the food you consume and discover recipes that suit our preferences
-img: assets/img/healthyeats.png
+title: Code Book 💻
+description: go to platform for all the CS folks & software devs, helps you store, generate, translate and explain code with a single click.
+img: assets/img/codebook.png
 importance: 3
 category: latest
 ---
