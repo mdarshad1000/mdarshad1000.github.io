@@ -5,6 +5,7 @@ description: Web applciation that allows you to upload legal documents and under
 img: assets/img/legal.jpeg
 importance: 4
 category: latest
+link: https://legi-companion.vercel.app/
 ---
 
 Every project has a beautiful feature showcase page.
