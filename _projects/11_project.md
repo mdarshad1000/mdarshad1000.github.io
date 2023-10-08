@@ -8,4 +8,4 @@ category: latest
 link: https://scriptaid.onrender.com/
 ---
 
-> Visit PaperBrain [here](https://scriptaid.onrender.com/)
+> Visit Scrip Aid [here](https://scriptaid.onrender.com/)
