@@ -8,6 +8,13 @@ nav_order: 2
 ---
 <hr>
 <div class="projects">
+     <div class="container">
+        <div class="row row-cols-1">
+            <h4>Digital Product School <img src="../assets/img/dps.png" height="40" width="80" style="margin-left: 440px;"></h4>
+            <span>Recieved the scholarship for <b>Software Engineering</b> from <a href="https://www.digitalproductschool.io/"><b>Digital Product School</b></a> by UnternehmerTUMD, Germany</span>
+        </div>
+        </div>
+    <hr>
     <div class="container">
         <div class="row row-cols-1">
             <h4>MakeUC Winner <img src="../assets/img/makeuc.png" height="40" width="40" style="margin-left: 545px;"></h4>

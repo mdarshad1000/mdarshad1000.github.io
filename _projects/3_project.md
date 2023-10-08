@@ -5,8 +5,9 @@ description: go to platform for all the CS folks & software devs, helps you stor
 img: assets/img/codebook.png
 importance: 3
 category: latest
+link: https://github.com/mdarshad1000/CodeBook-MakeUC
 ---
-
+<!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -77,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

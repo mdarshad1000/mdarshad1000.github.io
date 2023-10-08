@@ -2,13 +2,13 @@
 layout: post
 title: Tagging Document - LangChain 🦜
 date: 2023-08-10 09:01:00
-description: Selecting a Vector Database
+description: Labelling/Classifying corpus using LangChain
 tags: 
 categories: 
 ---
 
 ### Tagging Document - LangChain 🦜
-`Labelling/Classifying documents using LangChain`
+`Labelling/Classifying corpus using LangChain`
 
 
 Recently LangChain introduced Document Tagging Chain. Tagging refers to simply assigning label(s) to a corpus.
