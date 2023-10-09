@@ -20,6 +20,6 @@ I am an engineering senior from New Delhi pursuing a major in Information Techno
 
 I am broadly interested in Application of <span style="color: pink">Machine Learning Research</span> and <span style="color: pink">Software Development </span>. I also possess a Software Engineering background, with the majority of it concentrated in the field of <span style="color: pink">Backend development .</span> 
 
-Lately I have been exploring the crazy advancements in the space of LLMs and exploring frameworks like [Langchain 🦜](https://www.langchain.com/) and [LlamaIndex 🦙](https://www.llamaindex.ai/)
+Lately I have been exploring the crazy advancements in the space of LLMs and Generative AI while tinkering with state-of-the-art frameworks like [Langchain 🦜](https://www.langchain.com/), [LlamaIndex 🦙](https://www.llamaindex.ai/). I have also contributed to Open Source in the same.
 
 In my spare time, I'm learning how machines learn, exploring the advancements in AGI, and hacking away on various [side projects](https://mdarshad1000.github.io/projects/). And as always, watching a healthy dose of Football.

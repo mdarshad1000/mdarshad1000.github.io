@@ -11,12 +11,12 @@ nav_order: 1
 <div class="projects">
     <div class="container">
         <h3>Founder</h3>
-        <h6><a href="https://www.paperbrain.study/">PaperBrain</a></h6>
+        <h6><a href="https://paperbrainv2.vercel.app/">PaperBrain</a></h6>
         <p>January 2023 - Present</p>
         <ul>
-            <li>Developed a platform to seamlessly access and understand research papers. With direct access to pdfs, you'll never have to struggle with tedious downloads again.</li>
-            <li>A LangChain 🦜 and GPT powered assistant which helps you understand the papers on the go.</li>
-            <li>Got 12000+  users within the first month of launch.</li>
+        <li><b>Efficient Research Paper Access:</b> Our platform offers an optimized interface for easy access to research papers.</li>
+        <li><b>GPT-Powered Paper Assistant:</b> We provide an AI-powered assistant, fueled by GPT, to help users understand research papers on the fly.</li>
+        <li>With 50,000 users and consistently over 100 Daily Active Users, our platform has gained decent popularity among researchers and academics.</li>
         </ul>
     </div>
     <hr>
@@ -40,7 +40,6 @@ nav_order: 1
             <li><b>Description:</b> Working on Analysis and Machine Learning for X-ray absorption spectroscopy.</li>
             <li><b>Literature Review:</b> Conducted a comprehensive literature review to understand Machine Learning algorithms for X-ray absorption spectroscopy.</li>
             <li><b>Experiments :</b>Feature engineered XAS data and implemented ML algorithms to improve accuracy. Increased TRIXS’s accuracy by 8% and decreased TRIXS’s MAE by 51%.</li>
-
         </ul>
     </div>
     <hr>

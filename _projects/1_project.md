@@ -5,7 +5,7 @@ description: Unlock the true potential of research, a platform to seamlessly acc
 img: assets/img/paperbrain.png
 importance: 1
 category: latest
-link: https://paperbrainv2.vercel.app/dashboard
+link: https://paperbrainv2.vercel.app/
 ---
 
-> Visit PaperBrain [here](https://paperbrainv2.vercel.app/dashboard)
+> Visit PaperBrain [here](https://paperbrainv2.vercel.app/)
