@@ -5,4 +5,5 @@ description: Allows users to enter their allergies, diets, preferences, and disl
 img: assets/img/foodfix.png
 importance: 4
 category: transitional
+link: https://foodfix-mangoes.vercel.app/
 ---

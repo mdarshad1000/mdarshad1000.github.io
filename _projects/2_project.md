@@ -5,6 +5,7 @@ description: one-stop solution to get an insight about the food you consume and 
 img: assets/img/healthyeats.png
 importance: 2
 category: latest
+link: https://github.com/mdarshad1000/Healthy-Eats
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
