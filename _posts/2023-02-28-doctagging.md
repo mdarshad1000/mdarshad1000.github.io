@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tagging Document - LangChain 🦜
+title: Tagging Document - LangChain 
 date: 2023-08-10 09:01:00
 description: Labelling/Classifying corpus using LangChain
 tags: 

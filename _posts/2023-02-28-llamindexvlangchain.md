@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LangChain 🦜 vs (and?) LlamaIndex 🦙
+title: LangChain vs (and?) LlamaIndex 🦜🦙
 date: 2023-07-28 19:01:00
 description: How are they different?
 tags: 

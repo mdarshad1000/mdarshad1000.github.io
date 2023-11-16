@@ -26,8 +26,8 @@ nav_order: 1
         <p>April 2023 - June 2023</p>
         <ul>
             <li><b>Data Analysis:</b> Analyzed the Azure SQL telemetry data using Kusto to identify 2 critical metrics which would influence the availability and performance of the SQL application, thus impacting customers..</li>
-            <li><b>Automation:</b> Implemented a C# SQLRunner to export retrieved data every 24 hours from Kusto to a SQL database.
-            <li?><b>Visualization: </b>Developed widgets to visualize and correlate identified metrics with Customer Impact using Power BI with the SQL Database as primary data source. Integrated the widgets into the existing TCS dashboard.</li>
+            <li><b>Automation:</b> Implemented a C# SQLRunner to export retrieved data every 24 hours from Kusto to a SQL database.</li>
+            <li><b>Visualization: </b>Developed widgets to visualize and correlate identified metrics with Customer Impact using Power BI with the SQL Database as primary data source. Integrated the widgets into the existing TCS dashboard.</li>
             <li><b>Impact: </b>The widgets enable the identification of causes contributing to SQL application outages and failovers, offering opportunities for mitigation. This holds the potential for driving cost savings within Microsoft’s operations.</li>
         </ul>
     </div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating the Data Jungle 🧾
+title: Navigating the Data Jungle 
 date: 2023-01-02 09:01:00
 description: A Review of 'Datasheets for Datasets'
 tags: 
